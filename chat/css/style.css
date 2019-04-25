@@ -1,0 +1,28 @@
+.main {
+  /* width: 640px;
+  border: dotted green 2px; */
+  height: 480px;
+  overflow: scroll;
+}
+
+.history {
+  width: 60%;
+  margin: auto;
+}
+
+.message {
+  padding: 12px;
+  border-style: groove;
+}
+
+.username {
+  font-weight: 700;
+}
+
+.message-text {
+  padding-left: 16px;
+}
+
+.message-date {
+  color: rgba(0, 0, 0, 0.4)
+}
